@@ -33,7 +33,7 @@ I debug code and capture sunsets with the same level of frustration.
 
 ### Frontend <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> </p> 
 
-### Backend <p> <img src="https://skillicons.dev/icons?i=nodejs,bun" /> </p> **Also working with:** Hono • Prisma • Supabase • MySQL 
+### Backend <p> <img src="https://skillicons.dev/icons?i=nodejs,bun,hono,prisma,supabase,mysql" /> </p>
 
 ### Tools & Deployment <p> <img src="https://skillicons.dev/icons?i=git,vscode,vercel" /> </p>
 
