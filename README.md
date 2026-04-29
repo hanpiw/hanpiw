@@ -91,9 +91,9 @@ A blend of tech + photography.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOURUSERNAME">GitHub</a> •
-<a href="https://instagram.com/YOURUSERNAME">Instagram</a> •
-<a href="https://linkedin.com/in/YOURUSERNAME">LinkedIn</a>
+<a href="https://github.com/hanpiw">GitHub</a> •
+<a href="https://instagram.com/hanpiiii_">Instagram</a> •
+<a href="https://linkedin.com/in/aulia-alhafidz">LinkedIn</a>
 </p>
 
 ---
