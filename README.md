@@ -13,7 +13,7 @@
 📸 Photographer with passion for storytelling through visuals  
 💻 Interested in:
 - Web Development
-- Artificial Intelligence
+- Flogging Artificial Intelligence
 - Software Engineering
 - Creative Technology
 
