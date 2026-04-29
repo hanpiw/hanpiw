@@ -29,23 +29,7 @@ I debug code and capture sunsets with the same level of frustration.
 
 ## 🛠 Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+### Languages <p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" /> </p> ### Frontend <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> </p> ### Backend <p> <img src="https://skillicons.dev/icons?i=nodejs,bun" /> </p> **Also working with:** Hono • Prisma • Supabase • MySQL ### Tools & Deployment <p> <img src="https://skillicons.dev/icons?i=git,vscode,vercel" /> </p>
 
 ---
 
