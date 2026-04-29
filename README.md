@@ -39,16 +39,6 @@ I debug code and capture sunsets with the same level of frustration.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanpiw&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=hanpiw&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanpiw&layout=compact&theme=tokyonight" />
 </p>
