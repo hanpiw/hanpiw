@@ -29,7 +29,11 @@ I debug code and capture sunsets with the same level of frustration.
 
 ## 🛠 Tech Stack
 
-### Languages <p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" /> </p> ### Frontend <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> </p> ### Backend <p> <img src="https://skillicons.dev/icons?i=nodejs,bun" /> </p> **Also working with:** Hono • Prisma • Supabase • MySQL ### Tools & Deployment <p> <img src="https://skillicons.dev/icons?i=git,vscode,vercel" /> </p>
+### Languages <p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" /> </p> ### Frontend <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> </p> 
+
+### Backend <p> <img src="https://skillicons.dev/icons?i=nodejs,bun" /> </p> **Also working with:** Hono • Prisma • Supabase • MySQL 
+
+### Tools & Deployment <p> <img src="https://skillicons.dev/icons?i=git,vscode,vercel" /> </p>
 
 ---
 
@@ -56,19 +60,6 @@ When I'm not coding, you'll probably find me:
 📷 Taking photos  
 🎨 Exploring visual storytelling  
 ☕ Editing photos while pretending deadlines don't exist
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Project One
-Short description about your project.
-
-### 💡 Project Two
-Short description about your project.
-
-### 📷 Creative Project
-A blend of tech + photography.
 
 ---
 
