@@ -46,7 +46,7 @@ I debug code and capture sunsets with the same level of frustration.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanpiw&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=hanpiw&theme=tokyonight" />
 </p>
 
 <p align="center">
