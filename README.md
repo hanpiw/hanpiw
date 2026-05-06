@@ -29,7 +29,7 @@ I debug code and capture sunsets with the same level of frustration.
 
 ## 🛠 Tech Stack
 
-<p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,php,react,nextjs,<br>tailwind,nodejs,bun,prisma,supabase,mysql,git,vscode,vercel" /> </p> 
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,php,react,nextjs,tailwind,nodejs,bun,prisma,supabase,mysql,git,vscode,vercel" /> </p> 
 
 ---
 
