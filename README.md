@@ -34,7 +34,7 @@ I debug code and capture sunsets with the same level of frustration.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanpiw&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hanpiw&layout=compact&theme=tokyonight" />
 </p>
 
 ---
