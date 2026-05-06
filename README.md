@@ -29,13 +29,8 @@ I debug code and capture sunsets with the same level of frustration.
 
 ## 🛠 Tech Stack
 
-### Languages <p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,php" /> </p> 
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,php,react,nextjs,tailwind,nodejs,bun,prisma,supabase,mysql,git,vscode,vercel" /> </p> 
 
-### Frontend <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> </p> 
-
-### Backend <p> <img src="https://skillicons.dev/icons?i=nodejs,bun,prisma,supabase,mysql" /> </p>
-
-### Tools & Deployment <p> <img src="https://skillicons.dev/icons?i=git,vscode,vercel" /> </p>
 
 ---
 
